@@ -21,6 +21,16 @@ If the standalone TypeScript plugin doesn't feel fast enough to you, Volar has a
 
 See [Vite Configuration Reference](https://vitejs.dev/config/).
 
+## Start the backend server
+
+```sh
+cd backend-api
+```
+
+```sh
+./backend-server_macos
+```
+
 ## Project Setup
 
 ```sh
@@ -50,4 +60,5 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+
 # vue-calculator
